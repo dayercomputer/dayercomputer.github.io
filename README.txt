@@ -1,9 +1,7 @@
-DAYER COMPUTER WEBSITE UPDATE
+DAYER COMPUTER WEBSITE UPDATE — ENGLISH VERSION
 
-1. Open https://github.com/dayercomputer/dayercomputer.github.io
-2. Click Add file > Upload files.
-3. Upload index.html, robots.txt, sitemap.xml and the files inside images/ (keep folder name images).
-4. Keep your existing Google verification HTML file; do not delete it.
-5. Commit changes, wait 1-3 minutes, then refresh https://dayercomputer.github.io/
+Upload the contents of this folder to your GitHub Pages repository: dayercomputer.github.io. Keep the images folder and its contents together. Replace index.html, robots.txt, and sitemap.xml when uploading. Do not delete your Google Search Console verification HTML file.
 
-WhatsApp: 94610 91844 | Instagram: @dayer_computer
+Website: https://dayercomputer.github.io/
+Contact: 94610 91844
+Address: 22 New Sabji Mandi Road, Near Mastan Baba Dargah, Pali, Rajasthan 306401
